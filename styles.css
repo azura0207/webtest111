@@ -1,0 +1,225 @@
+#AS {
+  width: 100%;
+  height: 100vh;
+  background: url("../../assets/img/aksdjandksel).png") center / cover no-repeat;
+  margin-top: 0px;
+  margin-bottom: 26px;
+}
+
+@media (min-width: 300px) {
+  #AS {
+    width: 100%;
+    height: 100vh;
+    background: url("../../assets/img/aksdjandksel).png") center / cover no-repeat;
+    margin-top: 0px;
+    margin-bottom: 26px;
+  }
+}
+
+@media (min-width: 576px) {
+  #AS {
+    width: 100%;
+    height: 100vh;
+    background: url("../../assets/img/wwwwww.png") center / cover no-repeat;
+    margin-top: 0px;
+    margin-bottom: 26px;
+  }
+}
+
+@media (min-width: 1400px) {
+  #AS {
+    width: 100%;
+    height: 100vh;
+    background: url("../../assets/img/qqqq.png") center / cover no-repeat;
+    margin-top: 0px;
+    margin-bottom: 90px;
+  }
+}
+
+#title {
+  font-size: 28px;
+  font-family: Montserrat, sans-serif;
+  font-weight: 300;
+  text-align: center;
+  color: rgb(255,255,255);
+  margin-top: 459px;
+}
+
+@media (min-width: 300px) {
+  #title {
+    font-size: 25px;
+    font-family: Montserrat, sans-serif;
+    font-weight: 300;
+    text-align: center;
+    color: rgb(255,255,255);
+    margin-top: 467px;
+  }
+}
+
+@media (min-width: 576px) {
+  #title {
+    font-size: 37px;
+    font-family: Montserrat, sans-serif;
+    font-weight: 300;
+    text-align: center;
+    color: rgb(255,255,255);
+    margin-top: 459px;
+  }
+}
+
+@media (min-width: 768px) {
+  #title {
+    font-size: 48px;
+    font-family: Montserrat, sans-serif;
+    font-weight: 300;
+    text-align: center;
+    color: rgb(255,255,255);
+    margin-top: 459px;
+  }
+}
+
+@media (min-width: 992px) {
+  #title {
+    font-size: 56px;
+    font-family: Montserrat, sans-serif;
+    font-weight: 300;
+    text-align: center;
+    color: rgb(255,255,255);
+    margin-top: 459px;
+  }
+}
+
+@media (min-width: 1200px) {
+  #title {
+    font-size: 56px;
+    font-family: Montserrat, sans-serif;
+    font-weight: 300;
+    text-align: center;
+    color: rgb(255,255,255);
+    margin-top: 459px;
+  }
+}
+
+@media (min-width: 1400px) {
+  #title {
+    font-size: 78px;
+    font-family: Montserrat, sans-serif;
+    font-weight: 300;
+    text-align: center;
+    color: rgb(255,255,255);
+    margin-top: 459px;
+  }
+}
+
+#subtitle {
+  font-size: 72px;
+  font-family: Montserrat, sans-serif;
+  font-weight: bold;
+  text-align: center;
+  color: rgb(255,255,255);
+}
+
+@media (min-width: 300px) {
+  #subtitle {
+    font-size: 46px;
+    font-family: Montserrat, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: rgb(255,255,255);
+  }
+}
+
+@media (min-width: 576px) {
+  #subtitle {
+    font-size: 52px;
+    font-family: Montserrat, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: rgb(255,255,255);
+  }
+}
+
+@media (min-width: 992px) {
+  #subtitle {
+    font-size: 87px;
+    font-family: Montserrat, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: rgb(255,255,255);
+  }
+}
+
+@media (min-width: 1200px) {
+  #subtitle {
+    font-size: 100px;
+    font-family: Montserrat, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: rgb(255,255,255);
+  }
+}
+
+@media (min-width: 1400px) {
+  #subtitle {
+    font-size: 120px;
+    font-family: Montserrat, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: rgb(255,255,255);
+  }
+}
+
+.fit-cover {
+  min-height: 300px;
+  margin-top: 44px;
+  margin-left: -18px;
+  width: 334px;
+}
+
+@media (min-width: 300px) {
+  .fit-cover {
+    min-height: 300px;
+    margin-top: 44px;
+    margin-left: -18px;
+    width: 334px;
+  }
+}
+
+@media (min-width: 1400px) {
+  p {
+    text-align: left;
+    font-size: 17px;
+    color: rgb(255,255,255);
+    width: 449px;
+    height: 414px;
+    width: 624px;
+    font-size: 37px;
+    text-align: left;
+    margin-right: 0px;
+  }
+}
+
+.desc-small {
+  margin: 0 0 10px 10px;
+  padding-left: 0;
+  padding-right: 0;
+  height: 550px;
+  padding-top: 40px;
+  text-align: center;
+}
+
+@media (min-width: 300px) {
+  .desc-small {
+    margin: 0 0 10px 10px;
+    padding-left: 0;
+    padding-right: 0;
+    height: 550px;
+    padding-top: 40px;
+    text-align: center;
+  }
+}
+
+h1 {
+  font-size: 31.64px;
+}
+
